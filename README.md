@@ -2,9 +2,6 @@
 It's a simple example or demo project to show Error Boundaries usage
 it's made by using following technologies
 - ReactJS
-- NodeJS
-- MongoDB
-- ExpressJS
 - MaterialUI
 
 ## How To Run 
@@ -18,6 +15,6 @@ it's made by using following technologies
     2. Install Packages
     yarn
 
-    3. start Server App
+    3. start App
     yarn start
 ```
